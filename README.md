@@ -1,2 +1,2 @@
 # LP-PROJ-PT2
-nya ichi ni san
+Part 2 del projecte de LP.
