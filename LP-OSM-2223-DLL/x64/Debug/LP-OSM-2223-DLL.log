@@ -1,0 +1,10 @@
+﻿  BallTree.cpp
+  GrafSolucio.cpp
+D:\Downloads\VSCE2022 - ALUMNES P2 DEFINITIVO\VSCE2022 - ALUMNES P2\VSCE2022 - ALUMNES P2\LP-OSM-2223-DLL\GrafSolucio.cpp(66,24): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+D:\Downloads\VSCE2022 - ALUMNES P2 DEFINITIVO\VSCE2022 - ALUMNES P2\VSCE2022 - ALUMNES P2\LP-OSM-2223-DLL\GrafSolucio.cpp(80,15): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+  MapaRender.cpp
+D:\Downloads\VSCE2022 - ALUMNES P2 DEFINITIVO\VSCE2022 - ALUMNES P2\VSCE2022 - ALUMNES P2\LP-OSM-2223-DLL\MapaRender.cpp(38,55): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+  MapaSolucio.cpp
+  Generando código...
+     Creando biblioteca D:\Downloads\VSCE2022 - ALUMNES P2 DEFINITIVO\VSCE2022 - ALUMNES P2\VSCE2022 - ALUMNES P2\x64\Debug\LP-OSM-2223-DLL.lib y objeto D:\Downloads\VSCE2022 - ALUMNES P2 DEFINITIVO\VSCE2022 - ALUMNES P2\VSCE2022 - ALUMNES P2\x64\Debug\LP-OSM-2223-DLL.exp
+  LP-OSM-2223-DLL.vcxproj -> D:\Downloads\VSCE2022 - ALUMNES P2 DEFINITIVO\VSCE2022 - ALUMNES P2\VSCE2022 - ALUMNES P2\x64\Debug\LP-OSM-2223-DLL.dll
